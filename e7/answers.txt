@@ -1,0 +1,3 @@
+1. The residuals are, in fact, near to normal. Furthermore, the p-value is quite low, which leads us to believe that the ratings are rising.
+
+2. The Kalman Filter is able to catch the genuine signal more effectively thanks to the new, "better" prediction.

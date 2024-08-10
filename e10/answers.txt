@@ -1,0 +1,11 @@
+Q1.
+Ans. (1) 1 min and 39.43 sec
+     (2) 9 min and 19.27 sec
+     (3) 9 min and 32.64 sec
+     (4) 1 min and 58.79 sec
+
+Q2.
+Ans. Based on the above outcomes, I think reading the files takes most of the time.
+
+Q3.
+Ans. I used .cache() in my wikipedia_popular.py, after filtering out unnecessary data and using extract_date_udf. 

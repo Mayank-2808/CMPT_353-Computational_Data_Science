@@ -1,0 +1,5 @@
+Q1.
+Ans. I used .cache() after get comments, averages, and best_author. When I timed my results, I noticed it takes more time without using .cache()
+
+Q2.
+Ans. Based on my outcomes, it took less time for my code to execute with broadcast, so it improved the running time.

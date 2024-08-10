@@ -1,0 +1,66 @@
+Summary of data-1.csv:
+
+X_Mean = 8.71769618641382, X Std_dev = 12.09458693659896, X_Min = -22.635877790008944, X_Max = 35.23705548785129
+
+Y_Mean = 12.522874034702584, Y Std_dev = 6.606680770370137, Y_Min = -2.565087832693213, Y_Max = 27.38415261152477
+
+Correlation Coefficient (r) = 0.9503256954375491
+
+Description: data-1.csv contains (x, y) data points for which, the values of X are in a range of (-22.635877790008944, 35.23705548785129), whereas Y ranges from (-2.565087832693213, 27.38415261152477). Moreover, the standard deviation for the X and Y data points is 12.09458693659896 and 6.606680770370137 respectively.
+
+
+Summary of data-2.csv:
+
+X_Mean = -0.7107871267159573, X Std_dev = 11.424031427941332, X_Min = -33.2711130771198, X_Max = 27.6470003722073
+
+Y_Mean = -0.7489869764497991, Y Std_dev = 6.226549791205469, Y_Min = -18.621803760419063, Y_Max = 14.14731499231748
+
+Correlation Coefficient (r) = 0.9551531665750372
+
+Description: data-2.csv contains (x, y) data points for which, the values of X are in a range of (-33.2711130771198, 27.6470003722073), whereas Y ranges from (-18.621803760419063, 14.14731499231748). Moreover, the standard deviation for the X and Y data points is 11.424031427941332 and 6.226549791205469 respectively.
+
+
+Summary of data-3.csv:
+
+X_Mean = 0.9689074904200939, X Std_dev = 2.231828821162358, X_Min = -2.4490643296742807, X_Max = 4.51888491755363
+
+Y_Mean = 8.508535236641327, Y Std_dev = 1.1473837107336815, Y_Min = 6.641734490391763, Y_Max = 10.551871022804317
+
+Correlation Coefficient (r) = 0.9819372646760668
+
+Description: data-3.csv contains (x, y) data points for which, the values of X are in a range of (-2.4490643296742807, 4.51888491755363), whereas Y ranges from (6.641734490391763, 10.551871022804317). Moreover, the standard deviation for the X and Y data points is 2.231828821162358 and 1.1473837107336815 respectively.
+
+
+Summary of data-4.csv:
+
+X_Mean = 49.90508614830509, X Std_dev = 28.387554302031923, X_Min = 0.0, X_Max = 87.3767
+
+Y_Mean = 18.553836525423726, Y Std_dev = 16.4756375419362, Y_Min = 0.0, Y_Max = 44.56504
+
+Correlation Coefficient (r) = -0.0811930673549082
+
+Description: data-4.csv contains (x, y) data points for which, the values of X are in a range of (0.0, 87.3767), whereas Y ranges from (0.0, 44.56504). Moreover, the standard deviation for the X and Y data points is 28.387554302031923 and 16.4756375419362 respectively.
+
+
+Summary of data-5.csv:
+
+X_Mean = 49.90999357843095, X Std_dev = 28.378981284825983, X_Min = 4.337892453674525, X_Max = 91.0528633396976
+
+Y_Mean = 18.555524937729086, Y Std_dev = 16.470559057583237, Y_Min = 0.0554975075811517, Y_Max = 49.93419703633311
+
+Correlation Coefficient (r) = -0.08823598983058885
+
+Description: data-5.csv contains (x, y) data points for which, the values of X are in a range of (4.337892453674525, 91.0528633396976), whereas Y ranges from (0.0554975075811517, 49.93419703633311). Moreover, the standard deviation for the X and Y data points is 28.378981284825983 and 16.470559057583237 respectively.
+
+
+Summary of data-6.csv:
+
+X_Mean = 7.21615517960992, X Std_dev = 11.861841302343018, X_Min = -24.33382075234097, X_Max = 35.402138910929
+
+Y_Mean = 7.602215028237295, Y Std_dev = 11.70541274804915, Y_Min = -22.9563569970746, Y_Max = 36.07987403078143
+
+Correlation Coefficient (r) = 0.9350685662094909
+
+Description: data-6.csv contains (x, y) data points for which, the values of X are in a range of (-24.33382075234097, 35.402138910929), whereas Y ranges from (-22.9563569970746, 36.07987403078143). Moreover, the standard deviation for the X and Y data points is 11.861841302343018 and 11.70541274804915 respectively.
+
+

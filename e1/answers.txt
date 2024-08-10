@@ -1,0 +1,3 @@
+1. While using NumPy and Pandas for identical computations, I discovered that Pandas was more user-friendly. Because Pandas uses column names and higher-level abstractions, its code is more legible, expressive, and compact.
+
+2. The pivot_months_loops function took around 82.1 ms for each loop to run, whereas the pivot_months_pandas function took about 3.27 ms per loop. The significant variance in execution times can probably be attributed to NumPy's extra overhead related to its more labour-intensive array and iteration operations. In this instance, Pandas seems to be quicker and more effective even with the overhead related to labelled data structures.

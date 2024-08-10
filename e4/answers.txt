@@ -1,0 +1,5 @@
+﻿1. Based on my results for the last question, I don’t think daily temperatures are a good way to predict population density, because I was not able to observe a general trend between temperatures and population density, which can be easily explained by pointing out that population density generally depends on a lot of other factors such as geographical, economic, and social variables.
+
+2. Keeping the larger data file compressed (stations.json.gz) on disk is more efficient for two main reasons. First, reading compressed data speeds up input/output processes by reducing the amount of data that needs to be moved from the disc to memory. Second, gzip compression reduces the amount of files on disc, which conserves storage and could increase cache efficiency. Decompressing the file repeatedly is therefore a more efficient method since it trades off disc I/O performance and storage capacity.
+
+Reference for Part 2 : https://medium.com/@lucasdiogodasilva/reducing-json-data-size-7c7e9c56dbd6#:~:text=In%20conclusion%2C%20reducing%20the%20size,transfer%20data%20over%20the%20network.
